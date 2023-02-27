@@ -22,7 +22,7 @@ public static class VatNumberUtils
         // {"HR", new CroatiaVatNumberValidator() },
         // {"HU", new HungaryVatNumberValidator() },
         // {"IE", new IrelandVatNumberValidator() },
-        //{"IT", new ItalyVatNumberValidator() },
+        {"IT", new ItalyVatNumberValidator() },
         // {"LT", new LithuaniaVatNumberValidator() },
         {"LU", new LuxembourgVatNumberValidator() },
         // {"LV", new LatviaVatNumberValidator() },
